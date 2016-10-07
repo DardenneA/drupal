@@ -1,0 +1,4 @@
+
+access book reservation form:
+  title: 'Accéder au formulaire de réservation de livre'
+  description: 'les utilisateurs ayant accès au formulaire de réservation de livre pourront réserver sur le site de la bibliothèque'
